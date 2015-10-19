@@ -1,0 +1,28 @@
+img.normal
+{
+height:128px;
+width: 128px;
+padding-right:1cm;
+}
+
+#linkNewGame {
+	padding-left: 44%;
+}
+
+#jsmmDiv {
+	display: block;
+	width: 1000px;
+	padding-left: 130px;
+}
+
+#linkStartGame {
+	padding-left: 44%;
+}
+
+#timerP {
+	padding-left: 44%;
+}
+
+#twitterLink {
+	padding-left: 38%;
+}
